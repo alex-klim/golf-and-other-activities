@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  person.cpp
- *
- *    Description:  source file for person header
- *
- *        Version:  1.0
- *        Created:  11/27/2018 11:56:46 PM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Oleksandr Klymenko ,
- *   Organization:  home
- *
- * =====================================================================================
- */
 #include "person.h"
 #include <iostream>
 
